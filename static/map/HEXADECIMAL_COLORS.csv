@@ -1,0 +1,439 @@
+﻿ID;HexCode;Description;ContrastChk
+1;#0C090A;Night;0
+2;#34282C;Charcoal;0
+3;#3B3131;Oil;0
+4;#3A3B3C;Dark Gray;0
+5;#454545;Light Black;0
+6;#413839;Black Cat;0
+7;#3D3C3A;Iridium;0
+8;#463E3F;Black Eel;0
+9;#4C4646;Black Cow;0
+10;#504A4B;Gray Wolf;0
+11;#565051;Vampire Gray;0
+12;#52595D;Iron Gray;0
+13;#5C5858;Gray Dolphin;0
+14;#625D5D;Carbon Gray;0
+15;#666362;Ash Gray;0
+16;#6D6968;Cloudy Gray;0
+17;#726E6D;Smokey Gray;0
+18;#736F6E;Alien Gray;0
+19;#757575;Sonic Silver;0
+20;#797979;Platinum Gray;0
+21;#837E7C;Granite;0
+22;#848482;Battleship Gray;0
+23;#B6B6B4;Gray Cloud;0
+25;#D1D0CE;Gray Goose;0
+28;#BCC6CC;Metallic Silver;0
+29;#98AFC7;Blue Gray;1
+31;#6D7B8D;Rat Gray;0
+32;#657383;Slate Granite Gray;0
+33;#616D7E;Jet Gray;0
+34;#646D7E;Mist Blue;0
+35;#566D7E;Marble Blue;0
+36;#737CA1;Slate Blue Grey;0
+37;#728FCE;Light Purple Blue;1
+38;#4863A0;Azure Blue;0
+39;#2B547E;Blue Jay;0
+40;#36454F;Charcoal Blue;0
+41;#29465B;Dark Blue Grey;0
+42;#2B3856;Dark Slate;0
+43;#123456;Deep Sea Blue;0
+44;#151B54;Night Blue;0
+45;#151B8D;Denim Dark Blue;0
+46;#15317E;Lapis Blue;0
+47;#0000A0;New Midnight Blue;0
+48;#0000A5;Earth Blue;0
+49;#0020C2;Cobalt Blue;0
+50;#0041C2;Blueberry Blue;0
+51;#2916F5;Canary Blue;0
+52;#0909FF;Bright Blue;1
+53;#1F45FC;Blue Orchid;0
+54;#2554C7;Sapphire Blue;0
+55;#1569C7;Blue Eyes;0
+56;#1974D2;Bright Navy Blue;0
+57;#2B60DE;Balloon Blue;0
+58;#2B65EC;Ocean Blue;0
+59;#306EFF;Blue Ribbon;0
+60;#157DEC;Blue Dress;0
+61;#1589FF;Neon Blue;0
+62;#368BC1;Glacial Blue Ice;0
+63;#488AC7;Silk Blue;0
+64;#357EC7;Windows Blue;0
+65;#3090C7;Blue Ivy;0
+66;#659EC7;Blue Koi;0
+67;#87AFC7;Columbia Blue;0
+68;#95B9C7;Baby Blue;0
+69;#6698FF;Sky Blue Dress;0
+70;#56A5EC;Iceberg;0
+71;#38ACEC;Butterfly Blue;0
+72;#3BB9FF;Midday Blue;0
+73;#5CB3FF;Crystal Blue;0
+74;#79BAEC;Denim Blue;0
+75;#82CAFF;Day Sky Blue;0
+76;#A0CFEC;Jeans Blue;0
+77;#B7CEEC;Blue Angel;0
+78;#B4CFEC;Pastel Blue;0
+79;#ADDFFF;Light Day Blue;0
+80;#C2DFFF;Sea Blue;0
+81;#C6DEFF;Heavenly Blue;0
+82;#BDEDFF;Robin Egg Blue;0
+83;#AFDCEC;Coral Blue;0
+84;#C9DFEC;Gulf Blue;0
+85;#D5D6EA;Pastel Light Blue;0
+86;#E3E4FA;Lavender Blue;0
+87;#EBF4FA;Water;0
+88;#CCFFFF;Light Slate;0
+89;#9AFEFF;Electric Blue;0
+90;#7DFDFE;Tron Blue;0
+91;#57FEFF;Blue Zircon;0
+92;#0AFFFF;Bright Cyan;0
+93;#50EBEC;Celeste;0
+94;#4EE2EC;Blue Diamond;0
+95;#16E2F5;Bright Turquoise;0
+96;#8EEBEC;Blue Lagoon;0
+97;#CFECEC;Pale Blue Lily;0
+98;#81D8D0;Tiffany Blue;0
+99;#77BFC7;Blue Hosta;0
+100;#92C7C7;Cyan Opaque;0
+101;#78C7C7;Northern Lights Blue;0
+102;#7BCCB5;Blue Green;0
+103;#AAF0D1;Magic Mint;0
+104;#93FFE8;Light Aquamarine;0
+105;#48CCCD;Deep Turquoise;0
+106;#46C7C7;Jellyfish;0
+107;#43C6DB;Blue Turquoise;0
+108;#43BFC7;Macaw Blue Green;0
+109;#3EA99F;Seafoam Green;1
+110;#3B9C9C;Deep Sea;0
+111;#045F5F;Medium Teal;0
+112;#033E3E;Deep Teal;0
+113;#2C3539;Gunmetal;0
+114;#3C565B;Blue Moss Green;0
+115;#4C787E;Beetle Green;0
+116;#5E7D7E;Grayish Turquoise;0
+117;#307D7E;Greenish Blue;0
+118;#348781;Aquamarine Stone;0
+119;#438D80;Sea Turtle Green;0
+120;#4E8975;Dull Sea Green;0
+121;#306754;Deep Sea Green;0
+122;#31906E;Dark Mint;0
+123;#00A36C;Jade;0
+124;#34A56F;Earth Green;0
+125;#50C878;Emerald;0
+126;#3EB489;Mint;0
+127;#78866B;Camouflage Green;0
+128;#848B79;Sage Green;0
+129;#617C58;Hazel Green;0
+130;#728C00;Venom Green;0
+131;#4B5320;Army Green;0
+132;#667C26;Fern Green;0
+133;#4E9258;Fall Forest Green;0
+134;#387C44;Pine Green;0
+135;#347235;Medium Forest Green;0
+136;#347C2C;Jungle Green;0
+137;#046307;Deep Emerald Green;0
+138;#254117;Dark Forest Green;0
+139;#437C17;Seaweed Green;0
+140;#347C17;Shamrock Green;0
+141;#6AA121;Green Onion;0
+142;#4AA02C;Green Pepper;0
+143;#41A317;Dark Lime Green;0
+144;#12AD2B;Parrot Green;1
+145;#3EA055;Clover Green;0
+146;#73A16C;Dinosaur Green;0
+147;#6CBB3C;Green Snake;0
+148;#6CC417;Alien Green;0
+149;#4CC417;Green Apple;0
+150;#52D017;Pea Green;0
+151;#4CC552;Kelly Green;0
+152;#54C571;Zombie Green;0
+153;#99C68E;Frog Green;0
+154;#89C35C;Green Peas;0
+155;#85BB65;Dollar Bill Green;0
+156;#9CB071;Iguana Green;0
+157;#B0BF1A;Acid Green;0
+158;#B2C248;Avocado Green;0
+159;#9DC209;Pistachio Green;0
+160;#A1C935;Salad Green;0
+161;#77DD77;Pastel Green;0
+162;#7FE817;Hummingbird Green;0
+163;#59E817;Nebula Green;0
+164;#57E964;Stoplight Go Green;0
+165;#16F529;Neon Green;0
+166;#5EFB6E;Jade Green;0
+167;#36F57F;Lime Mint Green;0
+168;#5FFB17;Emerald Green;0
+169;#66FF00;Bright Green;0
+170;#87F717;Yellow Lawn Green;0
+171;#98F516;Aloe Vera Green;0
+172;#B1FB17;Dull Green Yellow;0
+173;#BDF516;Chameleon Green;0
+174;#DAEE01;Neon Yellow Green;0
+175;#E2F516;Yellow Green Grosbeak;0
+176;#CCFB5D;Tea Green;0
+177;#BCE954;Slime Green;0
+178;#64E986;Algae Green;0
+179;#6AFB92;Dragon Green;0
+180;#98FF98;Mint Green;0
+181;#B5EAAA;Green Thumb;0
+182;#E3F9A6;Organic Brown;0
+183;#C3FDB8;Light Jade;0
+184;#DBF9DB;Light Rose Green;0
+185;#FFFFC2;Parchment;0
+186;#FFFFCC;Cream;0
+188;#F7E7CE;Champagne;0
+190;#FED8B1;Light Orange;0
+191;#FBE7A1;Golden Blonde;0
+192;#F3E3C3;Golden Silk;0
+193;#F0E2B6;Dark Blonde;0
+195;#F3E5AB;Vanilla;0
+196;#ECE5B6;Tan Brown;0
+197;#EDDA74;Cardboard Brown;0
+198;#EDE275;Harvest Gold;0
+199;#FFE87C;Sun Yellow;0
+200;#FFF380;Corn Yellow;0
+201;#FAF884;Pastel Yellow;0
+202;#FFFF33;Neon Yellow;1
+203;#FFEF00;Canary Yellow;0
+204;#F5E216;Banana Yellow;0
+205;#FFDB58;Mustard Yellow;0
+206;#FFDF00;Golden Yellow;0
+207;#F9DB24;Bold Yellow;0
+208;#FFD801;Rubber Ducky Yellow;0
+209;#FDD017;Bright Gold;0
+210;#EAC117;Golden Brown;0
+211;#F6BE00;Deep Yellow;0
+212;#F2BB66;Macaroni and Cheese;0
+213;#FBB917;Saffron;0
+214;#FBB117;Beer;0
+215;#FFAE42;Yellow Orange or Orange Yellow;0
+216;#FFA62F;Cantaloupe;0
+217;#EE9A4D;Brown Sand;0
+218;#E2A76F;Brown Sugar;0
+219;#C19A6B;Camel Brown;0
+220;#E6BF83;Deer Brown;0
+221;#C8AD7F;Light French Beige;0
+222;#C2B280;Sand;0
+223;#BCB88A;Sage;0
+224;#C8B560;Fall Leaf Brown;0
+225;#C9BE62;Ginger Brown;0
+226;#BAB86C;Olive Green;0
+227;#B5A642;Brass;0
+228;#C7A317;Cookie Brown;0
+229;#D4AF37;Metallic Gold;0
+230;#E9AB17;Bee Yellow;0
+231;#E8A317;School Bus Yellow;0
+232;#D4A017;Orange Gold;0
+233;#C68E17;Caramel;0
+234;#C58917;Cinnamon;0
+235;#CD7F32;Bronze;0
+236;#C88141;Tiger Orange;0
+237;#B87333;Copper;0
+238;#966F33;Wood;0
+239;#806517;Oak Brown;0
+240;#665D1E;Antique Bronze;0
+241;#8E7618;Hazel;0
+242;#8B8000;Dark Yellow;0
+243;#827839;Dark Moccasin;0
+244;#AF9B60;Bullet Shell;0
+245;#827B60;Army Brown;0
+246;#786D5F;Sandstone;0
+247;#483C32;Taupe;0
+248;#493D26;Mocha;0
+249;#513B1C;Milk Chocolate;0
+250;#3D3635;Gray Brown;0
+251;#3B2F2F;Dark Coffee;0
+252;#43302E;Old Burgundy;0
+253;#49413F;Western Charcoal;0
+254;#5C3317;Bakers Brown;0
+255;#654321;Dark Brown;0
+256;#704214;Sepia Brown;0
+257;#6F4E37;Coffee;0
+258;#835C3B;Brown Bear;1
+259;#7F5217;Red Dirt;0
+260;#7F462C;Sepia;0
+261;#8A4117;Dark Sienna;0
+262;#7E3817;Sangria;0
+263;#7E3517;Blood Red;0
+264;#954535;Chestnut;0
+265;#C34A2C;Chestnut Red;0
+266;#C04000;Mahogany;0
+267;#C35817;Red Fox;0
+268;#B86500;Dark Bisque;0
+269;#B5651D;Light Brown;0
+270;#C36241;Rust;0
+271;#CB6D51;Copper Red;0
+272;#C47451;Orange Salmon;0
+273;#CC6600;Sedona;0
+274;#E56717;Papaya Orange;0
+275;#E66C2C;Halloween Orange;0
+276;#FF6700;Neon Orange;0
+277;#FF5F1F;Bright Orange;0
+278;#F87217;Pumpkin Orange;0
+279;#F88017;Carrot Orange;0
+280;#F87431;Construction Cone Orange;0
+281;#FF7722;Indian Saffron;0
+282;#E67451;Sunrise Orange;0
+283;#FF8040;Mango Orange;0
+284;#F88158;Basket Ball Orange;0
+285;#F9966B;Light Salmon Rose;0
+286;#E78A61;Tangerine;0
+287;#DA8A67;Light Copper;0
+288;#F67280;Pastel Red;0
+289;#E77471;Pink Coral;0
+290;#F75D59;Bean Red;0
+291;#E55451;Valentine Red;0
+292;#E55B3C;Shocking Orange;0
+293;#FD1C03;Neon Red;0
+294;#FF2400;Scarlet;0
+295;#F62217;Ruby Red;0
+296;#F70D1A;Ferrari Red;0
+297;#F62817;Fire Engine Red;0
+298;#E42217;Lava Red;0
+299;#E41B17;Love Red;0
+300;#DC381F;Grapefruit;0
+301;#C24641;Cherry Red;0
+302;#C11B17;Chilli Pepper;1
+303;#B21807;Tomato Sauce Red;0
+304;#A70D2A;Carbon Red;0
+305;#9F000F;Cranberry;0
+306;#931314;Saffron Red;0
+307;#990012;Red Wine or Wine Red;0
+308;#8C001A;Burgundy;0
+309;#800517;Deep Red;0
+310;#660000;Red Blood;0
+311;#551606;Blood Night;0
+312;#3D0C02;Black Bean;0
+313;#3F000F;Chocolate Brown;0
+314;#2B1B17;Midnight;0
+315;#550A35;Purple Lily;0
+316;#810541;Purple Maroon;0
+317;#7D0541;Plum Pie;0
+318;#7D0552;Plum Velvet;1
+319;#872657;Dark Raspberry;0
+320;#7E354D;Velvet Maroon;0
+321;#7F4E52;Rosy Finch;0
+322;#7F525D;Dull Purple;0
+323;#7F5A58;Puce;0
+324;#997070;Rose Dust;0
+325;#B38481;Rosy Pink;0
+326;#C5908E;Khaki Rose;0
+327;#C48189;Pink Brown;0
+328;#C48793;Lipstick Pink;0
+329;#E8ADAA;Rose;0
+330;#C4AEAD;Silver Pink;0
+331;#ECC5C0;Rose Gold;0
+332;#FFCBA4;Deep Peach;0
+333;#F8B88B;Pastel Orange;1
+334;#EDC9AF;Desert Sand;0
+335;#FFDDCA;Unbleached Silk;0
+336;#FDD7E4;Pig Pink;0
+337;#FFE6E8;Blush;0
+338;#FFDFDD;Pink Bubble Gum;0
+339;#FFCCCB;Light Red;0
+340;#FBCFCD;Light Rose;0
+341;#FBBBB9;Deep Rose;0
+342;#FAAFBE;Donut Pink;0
+343;#FAAFBA;Baby Pink;0
+344;#F9A7B0;Flamingo Pink;0
+345;#FEA3AA;Pastel Pink;0
+346;#E7A1B0;Pink Rose;0
+347;#E799A3;Pink Daisy;0
+348;#E38AAE;Cadillac Pink;0
+349;#F778A1;Carnation Pink;0
+350;#E56E94;Blush Red;0
+351;#D16587;Purple Pink;0
+352;#C25A7C;Tulip Pink;0
+353;#C25283;Bashful Pink;0
+354;#E75480;Dark Pink;0
+355;#F660AB;Dark Hot Pink;0
+356;#FC6C85;Watermelon Pink;0
+357;#F6358A;Violet Red;0
+358;#F52887;Hot Deep Pink;0
+359;#F535AA;Neon Pink;0
+360;#FD349C;Neon Hot Pink;0
+361;#E45E9D;Pink Cupcake;0
+362;#E3319D;Dimorphotheca Magenta;0
+363;#E4287C;Pink Lemonade;0
+364;#E30B5D;Raspberry;0
+365;#C32148;Bright Maroon;0
+366;#C21E56;Rose Red;0
+367;#C12869;Rogue Pink;0
+368;#C12267;Burnt Pink;0
+369;#CA226B;Pink Violet;0
+370;#C12283;Dark Carnation Pink;0
+371;#B3446C;Raspberry Purple;0
+372;#B93B8F;Pink Plum;0
+373;#DF73D4;Deep Mauve;0
+374;#F433FF;Bright Neon Pink;0
+375;#E238EC;Crimson Purple;0
+376;#D462FF;Heliotrope Purple;0
+377;#C45AEC;Tyrian Purple;0
+378;#A74AC7;Purple Flower;0
+379;#B048B5;Orchid Purple;0
+380;#D291BC;Pastel Violet;0
+381;#915F6D;Mauve Taupe;0
+382;#7E587E;Viola Purple;0
+383;#614051;Eggplant;0
+384;#583759;Plum Purple;0
+385;#5E5A80;Grape;0
+386;#4E5180;Purple Navy;0
+387;#6960EC;Blue Lotus;0
+388;#736AFF;Light Slate Blue;0
+389;#7575CF;Periwinkle Purple;0
+390;#6C2DC7;Purple Amethyst;0
+391;#6A0DAD;Bright Purple;0
+392;#5453A6;Deep Periwinkle;0
+393;#4E387E;Purple Haze;0
+394;#571B7E;Purple Iris;0
+395;#4B0150;Dark Purple;0
+396;#36013F;Deep Purple;0
+397;#461B7E;Purple Monster;0
+398;#342D7E;Blue Whale;0
+399;#6A287E;Purple Jam;0
+400;#86608E;French Lilac;0
+401;#8D38C9;Purple Violet;0
+402;#A23BEC;Jasmine Purple;0
+403;#B041FF;Purple Daffodil;0
+404;#842DCE;Clemantis Violet;0
+405;#7A5DC7;Purple Sage Bush;0
+406;#7F38EC;Lovely Purple;0
+407;#9D00FF;Neon Purple;0
+408;#8E35EF;Purple Plum;0
+409;#893BFF;Aztech Purple;0
+410;#967BB6;Lavender Purple;0
+411;#8467D7;Light Purple;0
+412;#9172EC;Crocus Purple;0
+413;#9E7BFF;Purple Mimosa;0
+414;#CCCCFF;Periwinkle;0
+415;#DCD0FF;Pale Lilac;0
+416;#E0B0FF;Mauve;0
+417;#D891EF;Bright Lilac;0
+418;#B666D2;Rich Lilac;1
+419;#C38EC7;Purple Dragon;0
+420;#C8A2C8;Lilac;0
+421;#E6A9EC;Blush Pink;0
+422;#F2A2E8;Pastel Purple;0
+423;#F9B7FF;Blossom Pink;0
+424;#C6AEC7;Wisteria Purple;0
+425;#D2B9D3;Purple Thistle;0
+426;#E9CFEC;Periwinkle Pink;0
+427;#FCDFFF;Cotton Candy;0
+428;#EBDDE2;Lavender Pinocchio;0
+429;#E9E4D4;Ash White;0
+430;#EDE6D6;White Chocolate;0
+432;#F8F0E3;Off White;0
+434;#FFF9E3;Egg Shell;0
+435;#FAF5EF;Rice;0
+437;#FBFBF9;Cotton;0
+438;#FEFCFF;Milk White;0
+439;#B0E0E6;PowderBlue;1
+440;#00FFFF;Aqua or Cyan;1
+441;#2E8B57;SeaGreen;1
+442;#808000;Olive;1
+443;#FFA500;Orange;1
+444;#EB5406;Red Gold;1
+445;#FF69B4;HotPink;1
+446;#FF77FF;Fuchsia Pink;1
+447;#7FFF00;Chartreuse;1
+448;#E51B1E;OGA Red;0

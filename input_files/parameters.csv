@@ -1,0 +1,16 @@
+Parameter;Value
+input_file_path;input_files/
+output_file_path;output_files/
+static_map_path;static/map/
+input_file_name;new_nodes.csv
+depots_file_name;depots.csv
+fleet_file_name;vehicles.csv
+here_API_key;vJVCZbXQTtFpAR72Pzqoo6Jwf9Ua1tfsS1Mwf5Rykxg
+city_name_zip_code_list;['SEVILLA', 'CADIZ', 'HUELVA', 'JAEN', 'ALMERIA', 'CORDOBA', 'GRANADA', 'MALAGA']
+TAM_POPULATION;10
+MAX_EXECUTION_TIME;5
+ROUTE_MAX_CLIENTS;60
+ROUTE_MAX_DISTANCE;3000
+ROUTE_MAX_TIME;720
+ROUTE_MAX_TRAVEL_TIME;540
+USE_ALL_FLEET;TRUE

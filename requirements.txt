@@ -1,0 +1,13 @@
+pandas
+numpy
+folium
+matplotlib
+seaborn
+plotly
+flexpolyline
+geopy
+shapely
+Flask
+scikit-learn
+networkx
+ortools
